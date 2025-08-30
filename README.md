@@ -10,4 +10,4 @@ In addition to the talk, I've written several blog posts about this project:
  * [Visualizing the Impact of Covid-19 on US Counties](https://arilamstein.com/blog/2024/05/04/visualizing-the-impact-of-covid-19-on-us-counties/) discusses the choice to use counties as the geographic unit for this project.
  * [Building a Census Explorer in Python: Part 1](https://arilamstein.com/blog/2024/02/04/building-a-census-explorer-in-python-part-1/) explains the technology choices made at the start of the project.
 
-This app was created by [Ari Lamstein](https://www.arilamstein.com).
+This app was created by Carlos Onrubia https://github.com/Carlos23-oss.
